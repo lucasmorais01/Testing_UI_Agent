@@ -1,4 +1,4 @@
-# ai-trading-agent
+# ai agent browser
 
  agent using interactive services api via browser-use
 
